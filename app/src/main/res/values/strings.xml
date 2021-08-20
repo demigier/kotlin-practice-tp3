@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoginPractica</string>
+    <string name="btn_send">Send</string>
+    <string name="ph_email">Enter email...</string>
+    <string name="ph_pass">Enter password...</string>
+</resources>
